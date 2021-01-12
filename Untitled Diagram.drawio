@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T03:16:02.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DXM0r536xo995KppnSKN" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T03:17:45.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7yExKmK0OwUPrzDkqNwM" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,12 +57,6 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/code-128.png;fillColor=#DDDBFC;" vertex="1" parent="1">
           <mxGeometry x="505" y="127" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-71" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-70">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="120" as="sourcePoint" />
-            <mxPoint x="520" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-77" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-74" target="EX8O4b1PGBb1F0dFALzU-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -79,13 +73,19 @@
           <mxGeometry x="288" y="190" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-83" value="&lt;b&gt;criar a lógica que vai tratar o formato padrão de mensagem.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="762" y="157" width="170" height="110" as="geometry" />
+          <mxGeometry x="728" y="157" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-85" value="&lt;b&gt;&lt;font&gt;Se cliente autorizou&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="619" y="187" width="130" height="20" as="geometry" />
+          <mxGeometry x="603" y="187" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-89" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/code-128.png;fillColor=#DDDBFC;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="825" y="127" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="120" as="sourcePoint" />
+            <mxPoint x="520" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
