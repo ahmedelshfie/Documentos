@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T03:56:29.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_74OITy0g1yD1LiG6U9M" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T04:04:26.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wxtofBN-DrmlcVLPBZgQ" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,10 +106,10 @@
           <mxGeometry x="650" y="21" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-116" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=#DDDBFC;" vertex="1" parent="1">
-          <mxGeometry x="733.0000000000001" y="-195" width="81.25" height="75" as="geometry" />
+          <mxGeometry x="816.7500000000001" y="-347.5" width="81.25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-119" value="Service online que vai receber mensagem ao lado da MS do resgate para enviar para cliente com seguinte condições:-&lt;br&gt;&lt;br&gt;&lt;b&gt;1-&amp;nbsp;Plataforma produto é BAIXA.&lt;br&gt;&lt;br&gt;2- Plataforma produto é ALTA e não tem&amp;nbsp;agendamento.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-360" width="180" height="210" as="geometry" />
+          <mxGeometry x="1040" y="-390" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-122" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontColor=#000000;entryX=-0.017;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.046;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-116" target="EX8O4b1PGBb1F0dFALzU-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -118,7 +118,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-123" value="&lt;b&gt;MSG Online&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="733.63" y="-215" width="86.37" height="20" as="geometry" />
+          <mxGeometry x="816.75" y="-367.5" width="86.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-128" value="Service Batch que vai receber mensagem ao lado da MS do resgate para enviar para cliente com seguinte condição:-&lt;br&gt;&lt;b&gt;&lt;br&gt;1- Plataforma produto é ALTA e tem&amp;nbsp;agendamento.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="-150" width="180" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
