@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T03:31:30.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Jmjc7UYvFgru_tcw5LDV" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T03:35:21.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="EDqor0SwDdknujp8TjP-" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,17 +81,26 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-89" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/code-128.png;fillColor=#DDDBFC;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="797" y="127" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-70">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="120" as="sourcePoint" />
-            <mxPoint x="520" y="70" as="targetPoint" />
+            <mxPoint x="520" y="124" as="sourcePoint" />
+            <mxPoint x="520" y="77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-98" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="50" as="sourcePoint" />
-            <mxPoint x="680" y="50" as="targetPoint" />
+            <mxPoint x="613" y="50" as="sourcePoint" />
+            <mxPoint x="713" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-106" value="verificar qual tipo plataforma produto(BAIXA, ALATA ou ALATA Agendada)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" width="170" height="105.76" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png;rounded=0;shadow=0;fillColor=#DDDBFC;fontColor=#000000;align=right;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_2_blue-128.png;rounded=0;shadow=0;fillColor=#DDDBFC;fontColor=#000000;align=right;" vertex="1" parent="1">
+          <mxGeometry x="650" y="22" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
