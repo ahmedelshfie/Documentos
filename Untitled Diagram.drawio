@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T03:37:26.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yuGB3HDxTMFyfoUC6cvR" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T03:38:04.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bHGTyi4cqQswQtwTawjs" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             <mxPoint x="713" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-106" value="&lt;b&gt;verificar qual tipo plataforma produto(BAIXA, ALATA ou ALATA Agendada)&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-106" value="&lt;b&gt;logica para verificar qual tipo plataforma produto(BAIXA, ALATA ou ALATA Agendada)&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" width="170" height="105.76" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png;rounded=0;shadow=0;fillColor=#DDDBFC;fontColor=#000000;align=right;" vertex="1" parent="1">
