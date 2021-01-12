@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T04:26:28.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1bfiT72fqWj6Ukz5Gl_S" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T04:27:31.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ylOJ0Ia2ffByEk7zv3PF" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-134" value="&lt;b&gt;MSG Batch&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="814.19" y="-180" width="86.37" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-140" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-141" target="EX8O4b1PGBb1F0dFALzU-131">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-140" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-141" target="EX8O4b1PGBb1F0dFALzU-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="606" y="30" as="sourcePoint" />
             <mxPoint x="822.75" y="-98.42884895580369" as="targetPoint" />
@@ -144,23 +144,23 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-141" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.mq;rounded=0;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="-70" width="60" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-142" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;exitX=0.998;exitY=0.137;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-15" target="EX8O4b1PGBb1F0dFALzU-141">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-142" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;exitX=0.998;exitY=0.137;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-15" target="EX8O4b1PGBb1F0dFALzU-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="606" y="20" as="sourcePoint" />
             <mxPoint x="822.75" y="-98.42884895580369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-149" value="&lt;b&gt;Para consumir serviço Batch tem processo de integração tem que ser feito no MS srv-orq-resgate&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="62.239999999999995" width="170" height="105.76" as="geometry" />
+          <mxGeometry x="1045" y="62.239999999999995" width="170" height="105.76" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-151" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontColor=#000000;" edge="1" parent="1" target="EX8O4b1PGBb1F0dFALzU-149">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-151" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontColor=#000000;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" target="EX8O4b1PGBb1F0dFALzU-149">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="-30" as="sourcePoint" />
             <mxPoint x="800" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-152" value="&lt;b style=&quot;font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Integração&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="691" y="-90" width="60" height="20" as="geometry" />
+          <mxGeometry x="693" y="-90" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
