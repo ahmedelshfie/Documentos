@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T03:13:05.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_EsWBqrWvY0teqoHRbCa" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T03:14:44.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DrhOdRnsOXosjvUIOOVN" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-68" value="&lt;h1&gt;Chamar sistema CADU&lt;/h1&gt;&lt;p&gt;Realizando a chamada para sistema CADU para capturar numero de celular do cliente e consultar se cliente autorizou receber sms.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="-390" width="180" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-87" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-70" target="EX8O4b1PGBb1F0dFALzU-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/code-128.png;fillColor=#DDDBFC;" vertex="1" parent="1">
           <mxGeometry x="505" y="100" width="30" height="30" as="geometry" />
         </mxCell>
@@ -80,6 +83,9 @@
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-85" value="&lt;b&gt;&lt;font&gt;Se cliente autorizou&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-89" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/code-128.png;fillColor=#DDDBFC;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="825" y="100" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
