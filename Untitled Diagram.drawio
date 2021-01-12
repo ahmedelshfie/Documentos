@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T04:19:50.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bihnQGs84-nyvWmT1vf0" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T04:24:16.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="R9KtcdMtuh6gbZc9uxlT" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-116" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=#DDDBFC;" vertex="1" parent="1">
           <mxGeometry x="816.7500000000001" y="-347.5" width="81.25" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-119" value="Service &lt;b&gt;online &lt;/b&gt;que vai receber mensagem ao lado da MS do resgate para enviar para cliente com seguinte condições:-&lt;br&gt;&lt;br&gt;&lt;b&gt;1-&amp;nbsp;Plataforma produto é BAIXA.&lt;br&gt;&lt;br&gt;2- Plataforma produto é ALTA e não tem&amp;nbsp;agendamento.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-119" value="Service &lt;b&gt;online &lt;/b&gt;que vai receber mensagem ao lado da MS do resgate para enviar para cliente com seguinte condições:-&lt;br&gt;&lt;br&gt;&lt;b&gt;1-&amp;nbsp;Plataforma produto é BAIXA.&lt;br&gt;&lt;br&gt;2- Plataforma produto é ALTA e não tem&amp;nbsp;agendamento.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-390" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-122" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontColor=#000000;entryX=-0.017;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.046;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-116" target="EX8O4b1PGBb1F0dFALzU-119">
@@ -120,7 +120,7 @@
         <mxCell id="EX8O4b1PGBb1F0dFALzU-123" value="&lt;b&gt;MSG Online&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="816.75" y="-367.5" width="86.37" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EX8O4b1PGBb1F0dFALzU-128" value="Service &lt;b&gt;Batch &lt;/b&gt;que vai receber mensagem ao lado da MS do resgate para enviar para cliente com seguinte condição:-&lt;br&gt;&lt;b&gt;&lt;br&gt;1- Plataforma produto é ALTA e tem&amp;nbsp;agendamento.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-128" value="Service &lt;b&gt;Batch &lt;/b&gt;que vai receber mensagem ao lado da MS do resgate para enviar para cliente com seguinte condição:-&lt;br&gt;&lt;b&gt;&lt;br&gt;1- Plataforma produto é ALTA e tem&amp;nbsp;agendamento.&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-173" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-131" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=#DDDBFC;" vertex="1" parent="1">
@@ -149,6 +149,18 @@
             <mxPoint x="606" y="20" as="sourcePoint" />
             <mxPoint x="822.75" y="-98.42884895580369" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-149" value="&lt;b&gt;Para consumir serviço Batch tem processo de integração tem que ser feito no MS srv-orq-resgate&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="78.50999999999999" width="170" height="105.76" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-151" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontColor=#000000;" edge="1" parent="1" target="EX8O4b1PGBb1F0dFALzU-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="-30" as="sourcePoint" />
+            <mxPoint x="800" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-152" value="&lt;b style=&quot;font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Integração&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="691" y="-90" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
