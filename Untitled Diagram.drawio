@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T02:44:55.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pw1taQNrLi6sVLAhmRRH" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T02:52:33.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="AjGgleDv8DnUoeNTNs_W" version="14.1.9" type="github">
   <diagram id="o6vOqTlNtzsDGir9jlwr" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,6 +50,18 @@
         </mxCell>
         <mxCell id="EX8O4b1PGBb1F0dFALzU-68" value="&lt;h1&gt;Chamar sistema CADU&lt;/h1&gt;&lt;p&gt;Realizando a chamada para sistema CADU para capturar numero de celular do cliente e consultar se cliente autorizou receber sms.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="-390" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/code-128.png;fillColor=#DDDBFC;" vertex="1" parent="1">
+          <mxGeometry x="505" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-71" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EX8O4b1PGBb1F0dFALzU-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="120" as="sourcePoint" />
+            <mxPoint x="520" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EX8O4b1PGBb1F0dFALzU-74" value="criar a logica para verificar no retorno do CADU se cliente autrizou receber sms." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="442" y="130" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
